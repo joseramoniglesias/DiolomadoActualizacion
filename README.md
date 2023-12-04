@@ -6,3 +6,5 @@ https://www.microsoft.com/en-us/download/details.aspx?id=58494
 https://www.knime.com/downloads
 # Link de descarga de openRenfine que se utilizará en las clases
 https://openrefine.org/download
+# Link de descarga de postgreSQL que se utilizará en las clases
+https://www.postgresql.org/download/
