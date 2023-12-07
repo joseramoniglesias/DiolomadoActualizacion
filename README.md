@@ -8,3 +8,5 @@ https://www.knime.com/downloads
 https://openrefine.org/download
 # Link de descarga de postgreSQL que se utilizará en las clases
 https://www.postgresql.org/download/
+# Link de descarga de R que se utilizará en clases
+https://cran.rstudio.com/
